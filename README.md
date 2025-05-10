@@ -3,8 +3,7 @@
 A Python-based malware detection tool with:
 - **Signature-based scanning** (hashes/patterns)
 - **VirusTotal API integration**
-- **Cyber-sec themed GUI**
-
+- **GUI for ease of use**
 ## Features
 - 🔍 Hybrid detection (local + cloud)
 - 🎨 Hacker-style terminal output
