@@ -22,7 +22,9 @@ Usage
 python scanner_gui.py
 ```
 1)Click "Scan File"
+
 2)Select any executable/document
+
 3)View the threat report
 
 ## Configuration
