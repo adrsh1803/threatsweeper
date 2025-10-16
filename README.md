@@ -1,4 +1,4 @@
-# ThreatSweeper 🛡️
+# ThreatSweeper 
 
 A Python-based malware detection tool with:
 - **Signature-based scanning** (hashes/patterns)
